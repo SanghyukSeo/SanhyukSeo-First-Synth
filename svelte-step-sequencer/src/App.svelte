@@ -13,7 +13,7 @@
 
 // Dorian scale notes
 const scaleOfNotes = ["C4", "D4", "E4", "F4"];
-
+ 
 let rows = [
   Array.from({length:16},(_,i) =>  ({note: scaleOfNotes[3], active: false})),
   Array.from({length:16},(_,i) =>  ({note: scaleOfNotes[2], active: false})),
