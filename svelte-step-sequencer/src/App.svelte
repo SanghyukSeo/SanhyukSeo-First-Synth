@@ -58,6 +58,7 @@ $: if (isPlaying) {
     hihat: new Tone.NoiseSynth().toDestination()
     */
   
+  
 </script>
 
 <div class="bpm-controls">
